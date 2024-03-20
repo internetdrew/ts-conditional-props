@@ -7,7 +7,7 @@ To get a local copy of the project up and running, follow these steps:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/internetdrew/tutorials/tree/main/conditional-ts-props
+git clone https://github.com/internetdrew/ts-conditional-props.git
 ```
 
 2. Install dependencies
