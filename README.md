@@ -10,7 +10,13 @@ To get a local copy of the project up and running, follow these steps:
 git clone https://github.com/internetdrew/ts-conditional-props.git
 ```
 
-2. Install dependencies
+2. Navigate to project directory:
+
+```bash
+cd ts-conditional-props
+```
+
+3. Install dependencies
 
 ```bash
 npm install
@@ -19,7 +25,7 @@ npm install
 3. Start the server:
 
 ```bash
-npm run start
+npm run dev
 ```
 
 4. Open on http://localhost:5173/ in your browser.
